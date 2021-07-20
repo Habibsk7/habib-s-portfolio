@@ -1,0 +1,40 @@
+[22-Apr-2021 10:38:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Jetpack_SEO_Utils' not found in /home2/habibsuruj/public_html/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php:3
+Stack trace:
+#0 /home2/habibsuruj/public_html/wp-content/plugins/jetpack/json-endpoints.php(32): require_once()
+#1 /home2/habibsuruj/public_html/wp-content/plugins/jetpack/class.json-api-endpoints.php(2169): require_once('/home2/habibsur...')
+#2 /home2/habibsuruj/public_html/wp-content/plugins/jetpack/class-jetpack-xmlrpc-methods.php(178): require_once('/home2/habibsur...')
+#3 /home2/habibsuruj/public_html/wp-includes/IXR/class-IXR-server.php(121): Jetpack_XMLRPC_Methods::json_api(Array)
+#4 /home2/habibsuruj/public_html/wp-includes/IXR/class-IXR-server.php(211): IXR_Server->call('jetpack.jsonAPI', Array)
+#5 /home2/habibsuruj/public_html/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall(Array)
+#6 /home2/habibsuruj/public_html/wp-includes/IXR/class-IXR-server.php(59): IXR_Server->call('system.multical...', Array)
+#7 /home2/habi in /home2/habibsuruj/public_html/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php on line 3
+[22-Apr-2021 10:38:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Jetpack_SEO_Utils' not found in /home2/habibsuruj/public_html/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php:3
+Stack trace:
+#0 /home2/habibsuruj/public_html/wp-content/plugins/jetpack/json-endpoints.php(32): require_once()
+#1 /home2/habibsuruj/public_html/wp-content/plugins/jetpack/class.json-api-endpoints.php(2169): require_once('/home2/habibsur...')
+#2 /home2/habibsuruj/public_html/wp-content/plugins/jetpack/class-jetpack-xmlrpc-methods.php(178): require_once('/home2/habibsur...')
+#3 /home2/habibsuruj/public_html/wp-includes/IXR/class-IXR-server.php(121): Jetpack_XMLRPC_Methods::json_api(Array)
+#4 /home2/habibsuruj/public_html/wp-includes/IXR/class-IXR-server.php(211): IXR_Server->call('jetpack.jsonAPI', Array)
+#5 /home2/habibsuruj/public_html/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall(Array)
+#6 /home2/habibsuruj/public_html/wp-includes/IXR/class-IXR-server.php(59): IXR_Server->call('system.multical...', Array)
+#7 /home2/habi in /home2/habibsuruj/public_html/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php on line 3
+[22-Apr-2021 10:38:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Jetpack_SEO_Utils' not found in /home2/habibsuruj/public_html/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php:3
+Stack trace:
+#0 /home2/habibsuruj/public_html/wp-content/plugins/jetpack/json-endpoints.php(32): require_once()
+#1 /home2/habibsuruj/public_html/wp-content/plugins/jetpack/class.json-api-endpoints.php(2169): require_once('/home2/habibsur...')
+#2 /home2/habibsuruj/public_html/wp-content/plugins/jetpack/class-jetpack-xmlrpc-methods.php(178): require_once('/home2/habibsur...')
+#3 /home2/habibsuruj/public_html/wp-includes/IXR/class-IXR-server.php(121): Jetpack_XMLRPC_Methods::json_api(Array)
+#4 /home2/habibsuruj/public_html/wp-includes/IXR/class-IXR-server.php(211): IXR_Server->call('jetpack.jsonAPI', Array)
+#5 /home2/habibsuruj/public_html/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall(Array)
+#6 /home2/habibsuruj/public_html/wp-includes/IXR/class-IXR-server.php(59): IXR_Server->call('system.multical...', Array)
+#7 /home2/habi in /home2/habibsuruj/public_html/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php on line 3
+[22-Apr-2021 10:41:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Jetpack_SEO_Utils' not found in /home2/habibsuruj/public_html/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php:3
+Stack trace:
+#0 /home2/habibsuruj/public_html/wp-content/plugins/jetpack/json-endpoints.php(32): require_once()
+#1 /home2/habibsuruj/public_html/wp-content/plugins/jetpack/class.json-api-endpoints.php(2169): require_once('/home2/habibsur...')
+#2 /home2/habibsuruj/public_html/wp-content/plugins/jetpack/class-jetpack-xmlrpc-methods.php(178): require_once('/home2/habibsur...')
+#3 /home2/habibsuruj/public_html/wp-includes/IXR/class-IXR-server.php(121): Jetpack_XMLRPC_Methods::json_api(Array)
+#4 /home2/habibsuruj/public_html/wp-includes/IXR/class-IXR-server.php(211): IXR_Server->call('jetpack.jsonAPI', Array)
+#5 /home2/habibsuruj/public_html/wp-includes/IXR/class-IXR-server.php(109): IXR_Server->multiCall(Array)
+#6 /home2/habibsuruj/public_html/wp-includes/IXR/class-IXR-server.php(59): IXR_Server->call('system.multical...', Array)
+#7 /home2/habi in /home2/habibsuruj/public_html/wp-content/plugins/jetpack/json-endpoints/class.wpcom-json-api-get-site-endpoint.php on line 3
